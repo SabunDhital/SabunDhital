@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**SabunDhital/SabunDhital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sabun Dittal**, a Business Analyst and graduate student in **Business Analytics** at the **University of South Dakota**. I’m passionate about turning data into actionable insights and building tools that empower better decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 About Me
+- 📊 Currently pursuing my M.S. in Business Analytics at USD  
+- 🔭 Working on data-driven projects involving Python, SQL, and machine learning  
+- 💡 Exploring how data science and storytelling intersect to drive strategy  
+- 📚 Always learning – currently focused on data visualization and predictive modeling
+
+---
+
+### 💼 Interests
+- Business Intelligence (BI) & Dashboarding  
+- Data-Driven Research & Academic Projects  
+- Predictive Analytics & Statistical Modeling  
+- Process Optimization & Workflow Automation  
+
+---
+
+### 🌐 Let’s Connect
+- 📫 Email: [your-email@example.com]  
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- 🖥️ Website: [sabundittal.github.io](https://sabundittal.github.io) *(Under Construction)*  
+
+---
+
+> "Data is a tool for empowerment. My goal is to use it responsibly to solve meaningful problems."
+
+Thanks for stopping by! 🚀
+
