@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Sabun Dhital**, a Business Analyst and graduate student in ** Master's of Business Analytics** at the **University of South Dakota**. I’m passionate about turning data into actionable insights and building tools that empower better decision-making.
+I'm **Sabun Dhital**, a Business Analyst and graduate student in **Master's of Business Analytics** at the **University of South Dakota**. I’m passionate about turning data into actionable insights and building tools that empower better decision-making.
 
 ---
 
